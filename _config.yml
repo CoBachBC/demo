@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Tecnología Educativa CBBC
 description: Recursos de tecnología educativa para Colegio de Bachilleres del Estado de Baja California
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
