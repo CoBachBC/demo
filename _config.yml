@@ -16,7 +16,7 @@
 title: Tecnología Educativa CBBC
 description: Recursos de tecnología educativa para Colegio de Bachilleres del Estado de Baja California
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cobachbc.github.io/EduTec/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
