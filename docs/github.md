@@ -60,28 +60,34 @@ En el contexto de una clase de diseño web, lo más práctico puede ser que el a
 
 Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo partir de una base ya hecha para entender su funcionamiento. El siguiente ejemplo indica cómo copiar un repositorio ya existente de otro usuario y empezar a usarlo en una versión propia.
 
-1. El primer paso es ubicar el repositorio existente que deseamos utilizar. La URL es la forma de identificarlos. Para este propósito, hemos creado este [repositorio de demostración](https://github.com/CoBachBC/DemoEjerciciosWeb) con la estructura de documentos simulando prácticas.
-1. En GitHub usando tu cuenta, tienes la opción de crear un repositorio nuevo, elige esa opción.
+El primer paso es ubicar el repositorio existente que deseamos utilizar. La URL es la forma de identificarlos. Para este propósito, hemos creado este [repositorio de demostración](https://github.com/CoBachBC/DemoEjerciciosWeb) con la estructura de documentos simulando prácticas.
+
+En GitHub usando tu cuenta, tienes la opción de crear un repositorio nuevo, elige esa opción.
 
 ![](/assets/images/github-clonar-repo-01.jpg){: .img-tutorial-h}
 
-1. En lugar de crearlo desde cero, elige la opción para importar uno existente.
+En lugar de crearlo desde cero, elige la opción para importar uno existente.
+{: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-02.jpg){: .img-tutorial-h}
 
-1. Ingresa el URL del repositorio  que quieres clonar.
+Ingresa el URL del repositorio  que quieres clonar.
+{: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-03.jpg){: .img-tutorial-h}
 
-1. Dale un nombre nuevo con el que lo verás en tus repositorios y márcalo como público.
+Dale un nombre nuevo con el que lo verás en tus repositorios y márcalo como público.
+{: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-04.jpg){: .img-tutorial-h}
 
-1. Aplica los cambios con el botón verde.
+Aplica los cambios con el botón verde.
+{: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-05.jpg){: .img-tutorial-h}
 
-1. Verás un mensaje de confirmación cuando termine.
+Verás un mensaje de confirmación cuando termine.
+{: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-06.jpg){: .img-tutorial-h}
 
