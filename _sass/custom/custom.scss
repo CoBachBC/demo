@@ -1,10 +1,12 @@
 a{color: #1100ff;}
 
-.img-tutorial{border: #ffffff solid 5px;
+.img-tutorial-v,.img-tutorial-h{border: #ffffff solid 5px;
 display: block;
 margin: auto;
-max-height: 450px;
 box-shadow: 3px 3px 15px #222222;}
+
+.img-tutorial-h{max-width: 40%;}
+.img-tutorial-v{max-width: 90%;}
 
 .img-tutorial-leyenda{text-align: center;
 font-style: italic;

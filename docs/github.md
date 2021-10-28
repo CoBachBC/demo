@@ -25,27 +25,27 @@ El sitio web está disponible solo en inglés, hay una app para [Android](https:
 
 La pantalla por defecto para creación de cuentas tiene un diseño tipo gamificado. Solicita al usuario ingrese datos tradicionales para crear una cuenta.
 
-![](/assets/images/github-crear-cuenta-01.png){: .img-tutorial}
+![](/assets/images/github-crear-cuenta-01.png){: .img-tutorial-v}
 
 Pantalla inicial para crear cuenta
 {: .img-tutorial-leyenda}
 
-![](/assets/images/github-crear-cuenta-02.png){: .img-tutorial}
+![](/assets/images/github-crear-cuenta-02.png){: .img-tutorial-v}
 
 Paso 1. Ingresa tu correo
 {: .img-tutorial-leyenda}
 
-![](/assets/images/github-crear-cuenta-03.png){: .img-tutorial}
+![](/assets/images/github-crear-cuenta-03.png){: .img-tutorial-v}
 
 Paso 2. Crea tu contraseña
 {: .img-tutorial-leyenda}
 
-![](/assets/images/github-crear-cuenta-04.png){: .img-tutorial}
+![](/assets/images/github-crear-cuenta-04.png){: .img-tutorial-v}
 
 Paso 3. Crea tu nombre de usuario
 {: .img-tutorial-leyenda}
 
-![](/assets/images/github-crear-cuenta-05.png){: .img-tutorial}
+![](/assets/images/github-crear-cuenta-05.png){: .img-tutorial-v}
 
 Paso 4. Verifica que no eres un robot y crea tu cuenta
 {: .img-tutorial-leyenda}
@@ -61,6 +61,7 @@ En el contexto de una clase de diseño web, lo más práctico puede ser que el a
 Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo partir de una base ya hecha para entender su funcionamiento. El siguiente ejemplo indica cómo copiar un repositorio ya existente de otro usuario y empezar a usarlo en una versión propia.
 
 1. El primer paso es ubicar el repositorio existente que deseamos utilizar. La URL es la forma de identificarlos. Para este propósito, hemos creado este [repositorio de demostración](https://github.com/CoBachBC/DemoEjerciciosWeb) con la estructura de documentos simulando prácticas.
+1. En GitHub usando tu cuenta, tienes la opción de crear un repositorio nuevo, elige esa opción.
 
 ### Crear un repositorio nuevo
 
