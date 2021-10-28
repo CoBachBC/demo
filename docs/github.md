@@ -26,7 +26,7 @@ El sitio web está disponible solo en inglés, hay una app para [Android](https:
 La pantalla por defecto para creación de cuentas tiene un diseño tipo gamificado. Solicita al usuario ingrese datos tradicionales para crear una cuenta.
 
 ![](/assets/images/github-crear-cuenta-01.png){: .img-tutorial}
-1. Ingresa tu correo
+Paso 1. Ingresa tu correo
 {: .img-tutorial-leyenda}
 
 ## Crear un repositorio
