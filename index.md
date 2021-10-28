@@ -6,13 +6,11 @@ description: "Recopilación de herramientas educativas enfocadas para el proceso
 permalink: /
 ---
 
-# Tecnología para el proceeso eductivo con un engoque práctico
+# Tecnología para el proceso educativo con un enfoque práctico
 {: .fs-9 }
 
-Las propuestas de herramientas tecnológicas que encontrarás aquí tienen el enfoque ser claramente aplicables y contribuir directamente a los objetivos del proceso educativo.
+Las propuestas de herramientas tecnológicas que encontrarás aquí tienen el enfoque de ser claramente aplicables y contribuir directamente a los objetivos del proceso educativo.
 {: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -32,11 +30,11 @@ Usa la herramienta de contacto para cualquier duda a la que no encuentres respue
 
 ## Acerca del proyecto
 
-{{ site.name }} &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática de Colegio de Bachilleres del Estado de Baja California](https://github.com/CoBachBC).
+Tecnología Educativa CBBC &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática de Colegio de Bachilleres del Estado de Baja California](https://github.com/CoBachBC).
 
 ### License
 
-{{ site.name }} está basado en la plantilla Just the Docs distribuida bajo [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Tecnología Educativa CBBC está basado en la plantilla [Just the Docs](https://github.com/pmarsceill/just-the-docs) distribuida bajo [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
 
 ### Contribuciones
 
