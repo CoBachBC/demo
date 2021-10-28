@@ -62,34 +62,36 @@ Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo
 
 El primer paso es ubicar el repositorio existente que deseamos utilizar. La URL es la forma de identificarlos. Para este propósito, hemos creado este [repositorio de demostración](https://github.com/CoBachBC/DemoEjerciciosWeb) con la estructura de documentos simulando prácticas.
 
-En GitHub usando tu cuenta, tienes la opción de crear un repositorio nuevo, elige esa opción.
-
 ![](/assets/images/github-clonar-repo-01.jpg){: .img-tutorial-h}
 
-En lugar de crearlo desde cero, elige la opción para importar uno existente.
+Paso 1. En GitHub usando tu cuenta, tienes la opción de crear un repositorio nuevo, elige esa opción.
 {: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-02.jpg){: .img-tutorial-h}
 
-Ingresa el URL del repositorio  que quieres clonar.
+Paso 2. En lugar de crearlo desde cero, elige la opción para importar uno existente.
 {: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-03.jpg){: .img-tutorial-h}
 
-Dale un nombre nuevo con el que lo verás en tus repositorios y márcalo como público.
+Paso 3. Ingresa el URL del repositorio  que quieres clonar.
 {: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-04.jpg){: .img-tutorial-h}
 
-Aplica los cambios con el botón verde.
+Paso 4. Dale un nombre nuevo con el que lo verás en tus repositorios y márcalo como público.
 {: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-05.jpg){: .img-tutorial-h}
 
-Verás un mensaje de confirmación cuando termine.
+Paso 5. Aplica los cambios con el botón verde.
 {: .img-tutorial-leyenda}
 
 ![](/assets/images/github-clonar-repo-06.jpg){: .img-tutorial-h}
+
+Paso 6. Verás un mensaje de confirmación cuando termine.
+{: .img-tutorial-leyenda}
+
 
 ### Crear un repositorio nuevo
 
