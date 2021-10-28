@@ -97,6 +97,10 @@ Paso 6. Verás un mensaje de confirmación cuando termine.
 
 Un repositorio nuevo es un proyecto en blanco, el cuál vamos a estructurar con los archivos y carpetas que necesitamos.
 
+Para crerlo es un proceso muy similar a la clonación, pero únicamente hay que darle nombre, por lo que es más sencillo.
+
+![](/assets/images/github-crear-repo-01.jpg){: .img-tutorial-h}
+
 ## Administrar un repositorio
 
 A search result can contain previews that show where the search words are found in the specific section.
