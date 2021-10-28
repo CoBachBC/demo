@@ -23,7 +23,7 @@ Los temas que vemos aquí están escritos desde la perspectiva del uso de GitHub
 
 La pantalla por defecto para creación de cuentas tiene un diseño tipo gamificado. Solicita al usuario ingrese datos tradicionales para crear una cuenta.
 
-![](/assets/images/github-crear-cuenta-01.jpg)
+![](/assets/images/github-crear-cuenta-01.png)
 
 ## Crear un repositorio
 
