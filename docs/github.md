@@ -103,21 +103,11 @@ Para crerlo es un proceso muy similar a la clonación, pero únicamente hay que 
 
 ## Administrar un repositorio
 
-A search result can contain previews that show where the search words are found in the specific section.
+Para administrar un repositorio, simplemente selecciónalo y verás una lista de su contenido
 
-```yaml
-# Maximum amount of previews per search result
-# Default: 3
-search.previews: 3
+![](/assets/images/github-administrar-repo-01.jpg){: .img-tutorial-h}
 
-# Maximum amount of words to display before a matched word in the preview
-# Default: 5
-search.preview_words_before: 5
-
-# Maximum amount of words to display after a matched word in the preview
-# Default: 10
-search.preview_words_after: 10
-```
+Verás una lista de su contenido, como si estuvieras explorando una carpeta. Puedes darle clic a cualquier elemento para entrar a las carpetas o abrir los archivos.
 
 ## Publicar un repositorio
 
