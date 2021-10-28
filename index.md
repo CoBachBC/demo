@@ -32,7 +32,7 @@ Usa la herramienta de contacto para cualquier duda a la que no encuentres respue
 
 Tecnología Educativa CBBC &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática de Colegio de Bachilleres del Estado de Baja California](https://github.com/CoBachBC).
 
-### License
+### Licencia
 
 Tecnología Educativa CBBC está basado en la plantilla [Just the Docs](https://github.com/pmarsceill/just-the-docs) distribuida bajo [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
 
