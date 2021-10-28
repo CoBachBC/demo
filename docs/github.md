@@ -65,6 +65,26 @@ Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo
 
 ![](/assets/images/github-clonar-repo-01.jpg){: .img-tutorial-h}
 
+1. En lugar de crearlo desde cero, elige la opción para importar uno existente.
+
+![](/assets/images/github-clonar-repo-02.jpg){: .img-tutorial-h}
+
+1. Ingresa el URL del repositorio  que quieres clonar.
+
+![](/assets/images/github-clonar-repo-03.jpg){: .img-tutorial-h}
+
+1. Dale un nombre nuevo con el que lo verás en tus repositorios y márcalo como público.
+
+![](/assets/images/github-clonar-repo-04.jpg){: .img-tutorial-h}
+
+1. Aplica los cambios con el botón verde.
+
+![](/assets/images/github-clonar-repo-05.jpg){: .img-tutorial-h}
+
+1. Verás un mensaje de confirmación cuando termine.
+
+![](/assets/images/github-clonar-repo-06.jpg){: .img-tutorial-h}
+
 ### Crear un repositorio nuevo
 
 Un repositorio nuevo es un proyecto en blanco, el cuál vamos a estructurar con los archivos y carpetas que necesitamos.
