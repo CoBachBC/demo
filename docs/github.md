@@ -52,15 +52,9 @@ Paso 4. Verifica que no eres un robot y crea tu cuenta
 
 ## Crear un repositorio
 
-Pages are split into sections that can be searched individually.
-The sections are defined by the headings on the page.
-Each section is displayed in a separate search result.
+Los repositorios son los proyectos en los que almacenamos código. Podemos crear tantos repositorios como necesitemos.
 
-```yaml
-# Split pages into sections that can be searched individually
-# Supports 1 - 6, default: 2
-search.heading_level: 2
-```
+En el contexto de una clase de diseño web, lo más práctico puede ser que el alumno cree un único repositorio en el cuál puede crear a su vez carpetas para organizar sus prácticas. 
 
 ## Administrar un repositorio
 
