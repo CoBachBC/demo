@@ -29,7 +29,7 @@ In your site's `_config.yml`, enable search:
 search_enabled: true
 ```
 
-### Crear un repositorio
+## Crear un repositorio
 
 Pages are split into sections that can be searched individually.
 The sections are defined by the headings on the page.
@@ -41,7 +41,7 @@ Each section is displayed in a separate search result.
 search.heading_level: 2
 ```
 
-### Administrar un repositorio
+## Administrar un repositorio
 
 A search result can contain previews that show where the search words are found in the specific section.
 
@@ -59,7 +59,7 @@ search.preview_words_before: 5
 search.preview_words_after: 10
 ```
 
-### Publicar un repositorio
+## Publicar un repositorio
 
 The default is for hyphens to separate tokens in search terms:
 `gem-based` is equivalent to `gem based`, matching either word.
