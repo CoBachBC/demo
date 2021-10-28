@@ -63,6 +63,8 @@ Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo
 1. El primer paso es ubicar el repositorio existente que deseamos utilizar. La URL es la forma de identificarlos. Para este propósito, hemos creado este [repositorio de demostración](https://github.com/CoBachBC/DemoEjerciciosWeb) con la estructura de documentos simulando prácticas.
 1. En GitHub usando tu cuenta, tienes la opción de crear un repositorio nuevo, elige esa opción.
 
+![](/assets/images/github-clonar-repo-01.png){: .img-tutorial-h}
+
 ### Crear un repositorio nuevo
 
 Un repositorio nuevo es un proyecto en blanco, el cuál vamos a estructurar con los archivos y carpetas que necesitamos.
