@@ -19,6 +19,8 @@ GitHub es un servicio que permite compartir código de cualquier lenguaje de pro
 
 Los temas que vemos aquí están escritos desde la perspectiva del uso de GitHub para proyectos basados en HTML y CSS.
 
+El sitio web está disponible solo en inglés, hay una app para [Android](https://play.google.com/store/apps/details?id=com.github.android) y [iOS](https://apps.apple.com/app/github/id1477376905?ls=1) pero requiere la creación previa de la cuenta del usuario.
+
 ## Crear una cuenta
 
 La pantalla por defecto para creación de cuentas tiene un diseño tipo gamificado. Solicita al usuario ingrese datos tradicionales para crear una cuenta.
