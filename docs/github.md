@@ -60,6 +60,8 @@ En el contexto de una clase de diseño web, lo más práctico puede ser que el a
 
 Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo partir de una base ya hecha para entender su funcionamiento. El siguiente ejemplo indica cómo copiar un repositorio ya existente de otro usuario y empezar a usarlo en una versión propia.
 
+1. El primer paso es ubicar el repositorio existente que deseamos utilizar. La URL es la forma de identificarlos. Para este propósito, hemos creado este [repositorio de demostración](https://github.com/CoBachBC/DemoEjerciciosWeb) con la estructura de documentos simulando prácticas.
+
 ### Crear un repositorio nuevo
 
 Un repositorio nuevo es un proyecto en blanco, el cuál vamos a estructurar con los archivos y carpetas que necesitamos.
