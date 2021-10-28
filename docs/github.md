@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub
-nav_order: 9
+nav_order: 2
 ---
 
 # GitHub
@@ -21,13 +21,9 @@ Los temas que vemos aquí están escritos desde la perspectiva del uso de GitHub
 
 ## Crear una cuenta
 
-In your site's `_config.yml`, enable search:
+La pantalla por defecto para creación de cuentas tiene un diseño tipo gamificado. Solicita al usuario ingrese datos tradicionales para crear una cuenta.
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-```
+
 
 ## Crear un repositorio
 
