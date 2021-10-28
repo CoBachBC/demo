@@ -111,13 +111,37 @@ Verás una lista de su contenido, como si estuvieras explorando una carpeta. Pue
 
 ## Publicar un repositorio
 
-The default is for hyphens to separate tokens in search terms:
-`gem-based` is equivalent to `gem based`, matching either word.
-To allow search for hyphenated words:
+![](/assets/images/github-publicar-repo-01.jpg){: .img-tutorial-h}
 
-```yaml
-# Set the search token separator
-# Default: /[\s\-/]+/
-# Example: enable support for hyphenated search words
-search.tokenizer_separator: /[\s/]+/
-```
+Paso 1. Entra a tu repositorio, verás los archivos que contiene, y en la parte superior varias opciones, selecciona la que corresponde a configuración (Settings).
+{: .img-tutorial-leyenda}
+
+
+![](/assets/images/github-publicar-repo-02.jpg){: .img-tutorial-h}
+
+Paso 2. De las opciones de configuración, selecciona <strong>Pagesz</strong>.
+{: .img-tutorial-leyenda}
+
+
+![](/assets/images/github-publicar-repo-03.jpg){: .img-tutorial-h}
+
+Paso 3. Verás que no hay ninguna seleccionada, haz clic en el botón para elegir.
+{: .img-tutorial-leyenda}
+
+
+![](/assets/images/github-publicar-repo-04.jpg){: .img-tutorial-h}
+
+Paso 4. La opción principal (Main) es la que te permitirá publicar todo tu contenido.
+{: .img-tutorial-leyenda}
+
+
+![](/assets/images/github-publicar-repo-05.jpg){: .img-tutorial-h}
+
+Paso 5. Asegúrate de guardar los cambios.
+{: .img-tutorial-leyenda}
+
+
+![](/assets/images/github-publicar-repo-06.jpg){: .img-tutorial-h}
+
+Paso 6. Verás una confirmación y un enlace a tu web publicada.
+{: .img-tutorial-leyenda}
