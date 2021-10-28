@@ -56,6 +56,14 @@ Los repositorios son los proyectos en los que almacenamos código. Podemos crear
 
 En el contexto de una clase de diseño web, lo más práctico puede ser que el alumno cree un único repositorio en el cuál puede crear a su vez carpetas para organizar sus prácticas. 
 
+### Clonar un repositorio existente
+
+Al iniciar el aprendizaje de una nueva herramienta, normalmente es más sencillo partir de una base ya hecha para entender su funcionamiento. El siguiente ejemplo indica cómo copiar un repositorio ya existente de otro usuario y empezar a usarlo en una versión propia.
+
+### Crear un repositorio nuevo
+
+Un repositorio nuevo es un proyecto en blanco, el cuál vamos a estructurar con los archivos y carpetas que necesitamos.
+
 ## Administrar un repositorio
 
 A search result can contain previews that show where the search words are found in the specific section.
