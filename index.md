@@ -30,7 +30,7 @@ Usa la herramienta de contacto para cualquier duda a la que no encuentres respue
 
 ## Acerca del proyecto
 
-Tecnología Educativa CBBC &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática de Colegio de Bachilleres del Estado de Baja California](https://github.com/CoBachBC).
+Tecnología Educativa CBBC &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática CoBach BC](https://github.com/CoBachBC).
 
 ### Licencia
 
