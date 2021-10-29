@@ -146,7 +146,7 @@ Paso 5. Asegúrate de guardar los cambios.
 Paso 6. Verás una confirmación y un enlace a tu web publicada.
 {: .img-tutorial-leyenda}
 
-## Usar un repositorio publicado para hospedar páginas estáticas
+## Hospedar páginas estáticas
 
 Una vez que has publicado un respositorio, puedes usar su estructura de carpetas como la estructura de carpetas de un servidor web, partiendo de la dirección que te da GitHub.
 
