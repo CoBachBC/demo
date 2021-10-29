@@ -149,3 +149,14 @@ Paso 6. Verás una confirmación y un enlace a tu web publicada.
 ## Usar un repositorio publicado para ejercicios de clase
 
 Una vez que has publicado un respositorio, puedes usar su estructura de carpetas como la estructura de carpetas de un servidor web, partiendo de la dirección que te da GitHub, para los ejemplos de esta sección, el repositorio es [CoBachBC/DemoEjerciciosWeb](https://github.com/CoBachBC/DemoEjerciciosWeb) publicado en [https://cobachbc.github.io/DemoEjerciciosWeb/](https://cobachbc.github.io/DemoEjerciciosWeb/)
+
+La estructura de carpetas actual es:
+
+- DemoEjerciciosWeb
+    - Ejemplos
+    - Ejercicio1
+    - Ejercicio2
+    - Ejercicio3
+    - Ejercicio4
+    - Ejercicio5
+    - Ejercicio6
