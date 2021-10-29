@@ -152,19 +152,19 @@ Una vez que has publicado un respositorio, puedes usar su estructura de carpetas
 
 La estructura de carpetas actual es (se muestra cuando en la carpeta existe un archivo llamado <code>index.html</code>):
 
-- DemoEjerciciosWeb
-    - Ejemplos
-    - Ejercicio1
-        - <code>index.html</code>
-    - Ejercicio2
-        - <code>index.html</code>
-    - Ejercicio3
-        - <code>index.html</code>
-    - Ejercicio4
-        - <code>index.html</code>
-    - Ejercicio5
-        - <code>index.html</code>
-    - Ejercicio6
-        - <code>index.html</code>
+    - DemoEjerciciosWeb
+        - Ejemplos
+        - Ejercicio1
+            - <code>index.html</code>
+        - Ejercicio2
+            - <code>index.html</code>
+        - Ejercicio3
+            - <code>index.html</code>
+        - Ejercicio4
+            - <code>index.html</code>
+        - Ejercicio5
+            - <code>index.html</code>
+        - Ejercicio6
+            - <code>index.html</code>
 
 Cuando en una carpeta existe un archivo <code>index.html</code> podemos usar el nombre de esa carpeta como parte de la dirección
