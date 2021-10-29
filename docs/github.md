@@ -146,9 +146,11 @@ Paso 5. Asegúrate de guardar los cambios.
 Paso 6. Verás una confirmación y un enlace a tu web publicada.
 {: .img-tutorial-leyenda}
 
-## Usar un repositorio publicado para ejercicios de clase
+## Usar un repositorio publicado para hospedar páginas estáticas
 
-Una vez que has publicado un respositorio, puedes usar su estructura de carpetas como la estructura de carpetas de un servidor web, partiendo de la dirección que te da GitHub, para los ejemplos de esta sección, el repositorio es [CoBachBC/DemoEjerciciosWeb](https://github.com/CoBachBC/DemoEjerciciosWeb) publicado en [https://cobachbc.github.io/DemoEjerciciosWeb/](https://cobachbc.github.io/DemoEjerciciosWeb/)
+Una vez que has publicado un respositorio, puedes usar su estructura de carpetas como la estructura de carpetas de un servidor web, partiendo de la dirección que te da GitHub.
+
+Para los ejemplos de esta sección, el repositorio es [CoBachBC/DemoEjerciciosWeb](https://github.com/CoBachBC/DemoEjerciciosWeb) y está publicado en [https://cobachbc.github.io/DemoEjerciciosWeb/](https://cobachbc.github.io/DemoEjerciciosWeb/)
 
 La estructura de carpetas actual es (se muestra cuando en la carpeta existe un archivo llamado <code>index.html</code>):
 
@@ -167,4 +169,6 @@ La estructura de carpetas actual es (se muestra cuando en la carpeta existe un a
     - Ejercicio6
         - <code>index.html</code>
 
-Cuando en una carpeta existe un archivo <code>index.html</code> podemos usar el nombre de esa carpeta como parte de la dirección, en este caso, la dirección del proyecto publicado es <code>https://cobachbc.github.io/DemoEjerciciosWeb/</code>, si agregamos el nombre de una carpeta con index al final, podemos ver su contenido como si estuviera en un servidor estático (solo acepta HTML, CSS, y JS). Si navegas a [https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1](https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1) verás el index servido.
+Cuando en una carpeta existe un archivo <code>index.html</code> podemos usar el nombre de esa carpeta como parte de la dirección, en este caso, la dirección del proyecto publicado es <code>https://cobachbc.github.io/DemoEjerciciosWeb/</code>, si agregamos el nombre de una carpeta con index al final, podemos ver su contenido como si estuviera en un servidor estático (solo acepta HTML, CSS, y JS).
+
+Si navegas a [https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1](https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1) verás el index servido.
