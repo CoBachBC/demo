@@ -174,3 +174,6 @@ Cuando en una carpeta existe un archivo <code>index.html</code> podemos usar el 
 Si navegas a [https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1](https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1) verás el index servido:
 
 ![](/assets/images/github-hospedar-web.01.png){: .img-tutorial-h}
+
+¡Ta-da! Un sitio publicado sin costo ni anuncios.
+{: .img-tutorial-leyenda}
