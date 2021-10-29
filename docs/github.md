@@ -171,4 +171,6 @@ La estructura de carpetas actual es (se muestra cuando en la carpeta existe un a
 
 Cuando en una carpeta existe un archivo <code>index.html</code> podemos usar el nombre de esa carpeta como parte de la dirección, en este caso, la dirección del proyecto publicado es <code>https://cobachbc.github.io/DemoEjerciciosWeb/</code>, si agregamos el nombre de una carpeta con index al final, podemos ver su contenido como si estuviera en un servidor estático (solo acepta HTML, CSS, y JS).
 
-Si navegas a [https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1](https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1) verás el index servido.
+Si navegas a [https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1](https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1) verás el index servido:
+
+![](/assets/images/github-hospedar-web.01.png){: .img-tutorial-h}
