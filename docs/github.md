@@ -155,7 +155,7 @@ La estructura de carpetas actual es (se muestra cuando en la carpeta existe un a
 - DemoEjerciciosWeb
     - Ejemplos
     - Ejercicio1
-        -index.html
+        - index.html
     - Ejercicio2
         -index.html
     - Ejercicio3
