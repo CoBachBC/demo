@@ -175,5 +175,5 @@ Si navegas a [https://cobachbc.github.io/DemoEjerciciosWeb/Ejercicio1](https://c
 
 ![](/assets/images/github-hospedar-web.01.png){: .img-tutorial-h}
 
-¡Ta-da! Un sitio publicado sin costo ni anuncios.
+**¡Ta-da!** Un sitio publicado sin costo ni anuncios.
 {: .img-tutorial-leyenda}
