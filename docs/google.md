@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Google Chrome
+title: Herramientas de Google
 nav_order: 3
 ---
 
@@ -15,9 +15,11 @@ nav_order: 3
 
 ---
 
+## Google Chrome
+
 Todas las cuentas **@cobachbc.edu.mx** son cuentas Google, por lo que usar el navegador de Google para sus aplicaciones es lo mejor que podemos hacer, ya que ellos configuran sus aplicaciones web pensando siempre en su navegador primero, y algunas funciones solo están disponibles en Chrome.
 
-## Creación de perfil
+### Creación de perfil
 
 Crear un perfil nos permite iniciar sesión con nuestra cuenta **@cobachbc.edu.mx** en el programa del navegador, esto hará que nuestra cuenta institucional esté por defecto configurada con las página de Google. De esta manera no tienes que hacer inicio de sesión cada vez que usas el navegador.
 
@@ -97,3 +99,15 @@ Cuando seleccionas un perfil abre una ventana propia de Chrome para ese perfil, 
 
 Cada perfil se abrirá en su propio navegador, por lo que puedes aprovechar al máximo las características de cada aplicación de Google.
 {: .img-tutorial-leyenda}
+
+## Gmail
+
+### Búsqueda avanzada
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvObjMXwIG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Meet
+
+### Compartir video de YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4r_SLPJDCr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
