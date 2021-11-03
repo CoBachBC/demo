@@ -80,9 +80,20 @@ Si navegas a alguna aplicación de Google, notarás que no necesitas iniciar ses
 Puedes acceder directamente a las aplicaciones de Google sin tener que iniciar sesión, porque toma la información de la cuenta del perfil.
 {: .img-tutorial-leyenda}
 
-Si quieres manejar más de una cuenta Google, puedes agregar más perfiles, haciendo clic en **+ Agregar** al final de la ventana emergente, sigue los pasos para inicar sesión con otra cuenta y cada cuenta tendrá su perfil.
+Si quieres manejar más de una cuenta Google, puedes agregar más perfiles, haciendo clic en **+ Agregar** al final de la ventana emergente
 
 ![](/assets/images/chrome-crear-perfil-10.jpg){: .img-tutorial-h}
 
-Puedes agregar todas tus cuentas de Google para que cada una tenga su perfil independiente.
+Puedes agregar todas las cuentas que necesites.
+
+![](/assets/images/chrome-crear-perfil-11.jpg){: .img-tutorial-h}
+
+Verás en la ventana emergente los perfiles que has creado.
+{: .img-tutorial-leyenda}
+
+Cuando seleccionas un perfil abre una ventana propia de Chrome para ese perfil, por lo que tienes un navegador dedicado para cada perfil.
+
+![](/assets/images/chrome-crear-perfil-12.jpg){: .img-tutorial-h}
+
+Cada perfil se abrirá en su propio navegador, por lo que puedes aprovechar al máximo las características de cada aplicación de Google.
 {: .img-tutorial-leyenda}
