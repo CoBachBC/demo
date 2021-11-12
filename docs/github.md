@@ -119,7 +119,7 @@ Paso 1. Entra a tu repositorio, verás los archivos que contiene, y en la parte 
 
 ![](/assets/images/github-publicar-repo-02.jpg){: .img-tutorial-h}
 
-Paso 2. De las opciones de configuración, selecciona <strong>Pagesz</strong>.
+Paso 2. De las opciones de configuración, selecciona <strong>Pages</strong>.
 {: .img-tutorial-leyenda}
 
 
