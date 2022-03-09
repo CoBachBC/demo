@@ -4,7 +4,7 @@ title: Twine
 nav_order: 4
 ---
 
-# Google Chrome
+# Twine
 {: .no_toc }
 
 ## Temas
@@ -21,4 +21,4 @@ Twine (pronunciado *tuain*) es una herramienta para generar **experiencias inter
 
 En su base es muy simple, de paquete proporciona experiencias con una plantilla prediseñada donde prevalece la importancia del texto (que es lo que conduce al usuario).
 
-Puedes revisar <a href="twine-demo.html" target="_blank">este ejemplo</a> para que te des una idea de cómo funciona.
+Puedes revisar <a href="/twine-demo.html" target="_blank">este ejemplo</a> para que te des una idea de cómo funciona.
