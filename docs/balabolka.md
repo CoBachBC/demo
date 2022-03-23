@@ -39,5 +39,5 @@ Es versátil pues puede leer texto desde el portapapeles, copiado-pegado, o desd
 En conjunto con la aplicación *open-source* **FFMPEG** permite la creación de videos subtitulados. Esto permite generar material didáctico que para idiomas muy facilmente, como lo muestran los siguientes videos:
 
 <div class="container">
-    <iframe class="video" src="https://youtube.com/playlist?list=PLdGXgLDHGSQvG-zPavPE_XkQnfDcCn5w-" frameborder="0" allowfullscreen></iframe>
+    <iframe class="video" src="https://www.youtube.com/embed/videoseries?list=PLdGXgLDHGSQvG-zPavPE_XkQnfDcCn5w-" frameborder="0" allowfullscreen></iframe>
 </div>
