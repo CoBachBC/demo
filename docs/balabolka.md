@@ -41,3 +41,12 @@ En conjunto con la aplicación *open-source* **FFMPEG** permite la creación de 
 <div class="container">
     <iframe class="video" src="https://www.youtube.com/embed/videoseries?list=PLdGXgLDHGSQvG-zPavPE_XkQnfDcCn5w-" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## ¿Cómo generar archivos para producir material hablado?
+
+Los equipos docentes que contribuyan a la generación del material didáctico **no** necesitan capacitarse en el uso de Balabolka, ya que esta herramienta es de carácter técnico.
+
+La contribución docente es en el ámbito del contenido, y para este propósito pueden seguir la presente guía.
+
+### Un archivo por material esperado
+
