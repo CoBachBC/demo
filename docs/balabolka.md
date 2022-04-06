@@ -48,10 +48,11 @@ Los equipos docentes que contribuyan a la generación del material didáctico **
 
 La contribución docente es en el ámbito del contenido, y para este propósito pueden seguir la presente guía.
 
-### Un archivo de texto por material esperado
+### Organizando las ideas
 
 Para producir un video de un tema, técnicamente se espera recibir un archivo de texto. Tomemos como ejemplo la asignatura **Inglés 1**, en la **Unidad 1**, en la página 15 del libro, donde se presenta el uso del verbo *to be* con los pronombres.
 
 ![](/assets/images/balabolka-01-01.png){: .img-tutorial-h}
 
-Continuando con la suposición, pensemos que se desea producir un material audiovisual que repita claramente la diferencia entre un pronombre + un verbo, y su contracción 
+Continuando con la suposición, pensemos que se desea producir un material audiovisual que repita claramente la diferencia entre **I am** y su contracción **I'm**.
+
