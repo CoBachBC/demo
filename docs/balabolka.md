@@ -139,7 +139,7 @@ Con eso en cuenta, tu archivo redactado puede verse similar a esto:
 
 ### 4. Créditos
 
-Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**).
+Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**) al final de tu archivo de texto.
 
 Es aconsejable que los redactes por línea de una forma similar a la siguiente:
 
