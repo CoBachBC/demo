@@ -166,7 +166,7 @@ Por lo que un guión de texto con voces intercaladas se vería algo como esto:
 
 ![](/assets/images/balabolka-01-12.png){: .img-tutorial-h}
 
-### Archivo terminado
+### 6. Archivo terminado
 
 Podrás saber que tienes un archivo válido para producir material didáctico verificando los siguientes puntos:
 
