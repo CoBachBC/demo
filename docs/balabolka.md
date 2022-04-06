@@ -56,3 +56,13 @@ Para producir un video de un tema, técnicamente se espera recibir un archivo de
 
 Continuando con la suposición, pensemos que se desea producir un material audiovisual que repita claramente la diferencia entre **I am** y su contracción **I'm**.
 
+### 1. Registro de entrada
+
+En la hoja de cálculo Entradas ESL CoBach BC, capturar los datos requeridos tomando en cuenta las siguientes consideraciones:
+
+- Las columnas en verde se completan automáticamente.
+- Las columnas en gris son para uso de Informática exclusivamente.
+
+Tomando esto en cuenta, procede primero a registrar los datos del material que vas a generar. Si tu material corresponde al libro, usa la columna **Página** y captura su número de página, y captura en cero la columna **Índice**. La columna índice la usarás solo cuando el material que quieras producir no corresponda al libro, en ese caso captura Página en 0 y usa un consecutivo tomando en cuenta todos los materiales que vayas a querer producir que no estén relacionados con el libro.
+
+![](/assets/images/balabolka-01-02.gif){: .img-tutorial-h}
