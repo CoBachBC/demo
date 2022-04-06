@@ -54,6 +54,9 @@ Para producir un video de un tema, técnicamente se espera recibir un archivo de
 
 ![](/assets/images/balabolka-01-01.png){: .img-tutorial-h}
 
+El tema seleccionado para ejemplificar, es el verbo *To be*, de la página 15 del libro, de Inglés 1
+{: .img-tutorial-leyenda}
+
 Continuando con la suposición, pensemos que se desea producir un material audiovisual que repita claramente la diferencia entre **I am** y su contracción **I'm**.
 
 ### 1. Registro de entrada
@@ -67,7 +70,7 @@ Tomando esto en cuenta, procede primero a registrar los datos del material que v
 
 ![](/assets/images/balabolka-01-02.gif){: .img-tutorial-h}
 
-Estructura a generar tomada del libro
+Datos específicos del tema seleccionado
 {: .img-tutorial-leyenda}
 
 Al capturar los datos del material que vas a redactar, la hoja de cálculo te proporciona un nombre de archivo. Ese nombre de archivo es el que utilizarás para el archivo de texto que vas a guardar.
