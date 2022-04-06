@@ -90,3 +90,17 @@ Elige la ubicación donde lo quieras guardar. Una sugerencia es que crees una ca
 Verás que tu archivo ya tiene el nombre único generado por la hoja de cálculo.
 
 ![](/assets/images/balabolka-01-07.png){: .img-tutorial-h}
+
+### 3. Redacción del contenido
+
+Esos pasos son suficientes para que tu archivo esté listo para redactar. De acuerdo al tema que elegiste, redacta los ejemplos. Toma en cuenta las siguientes sugerencias.
+
+- No dejes espacios en blanco innecesarios. El archivo será leído por un programa, por lo que no requiere formato para presentación, solo estructurar en orden los enunciados que quieres sean producidos.
+- Considera iniciar con el nombre completo del tema.
+- Puedes usar lo siguiente para generar pausas:
+ - Punto y a parte (**.**)
+ - Punto y seguido (**.**)
+ - Punto y coma (**;**)
+ - Dos puntos (**:**)
+ - Coma (**,**)
+ - Puntos suspensivos (**...**)
