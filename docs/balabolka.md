@@ -148,5 +148,5 @@ Para agregar variación de voces, es necesario que el texto sea etiquetado, de t
 
 Cuando se quiera indicar el uso de la voz masculina, Dave, será necesario rodear el texto que se desea sea pronunciado por *él* con etiquetas especiales para saber cuándo empieza a hablar Dave y cuándo termina de hablar.
 
-'**{dave}**': Dave empieza a hablar
-'**{findave}**': Dave termina de hablar
+`**{dave}**`: Dave empieza a hablar
+`**{findave}**`: Dave termina de hablar
