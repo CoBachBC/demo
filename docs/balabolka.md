@@ -164,7 +164,6 @@ Entonces, un fragmento leído por Dave se debe mostrar: `{dave}Hi, my name is Da
 
 Por lo que un guión de texto con voces intercaladas se vería algo como esto:
 
-
 ![](/assets/images/balabolka-01-12.png){: .img-tutorial-h}
 
 ### Archivo terminado
@@ -175,3 +174,12 @@ Podrás saber que tienes un archivo válido para producir material didáctico ve
 - El archivo de texto está titulado con **Nombre de archivo** proporcionado por la hoja de cálculo.
 - Existe en la primera línea un título que describe la estructura o tema.
 - Los enunciados están redactados en líneas.
+- Las frases que se espera sean pronunciadas por la segunda voz están debidamente etiquetadas (dónde empieza a hablar y dónde termina de hablar Dave).
+- Redactaron los créditos al final del archivo de texto entre [corchetes].
+
+Con estas comprobaciones podemos asumir que el archivo será compatible para su procesamiento, de acuerdo a la estructura de organización que implemente el equipo, los archivos TXT serán compartidos con las personas coordinadoras en Actividades educativas.
+
+![](/assets/images/balabolka-01-13.png){: .img-tutorial-h}
+
+Archivo terminado cotejado con la lista de verificación
+{: .img-tutorial-leyenda}
