@@ -67,6 +67,9 @@ Tomando esto en cuenta, procede primero a registrar los datos del material que v
 
 ![](/assets/images/balabolka-01-02.gif){: .img-tutorial-h}
 
+Estructura a generar tomada del libro
+{: .img-tutorial-leyenda}
+
 Al capturar los datos del material que vas a redactar, la hoja de cálculo te proporciona un nombre de archivo. Ese nombre de archivo es el que utilizarás para el archivo de texto que vas a guardar.
 
 ![](/assets/images/balabolka-01-03.png){: .img-tutorial-h}
@@ -86,6 +89,9 @@ Al abrirlo, como acabas de copiar el texto del nombre de archivo producido por l
 Elige la ubicación donde lo quieras guardar. Una sugerencia es que crees una carpeta exclusiva para este tipo de archivos, pero puedes guardarlo como mejor te parezca de acuerdo a tus hábitos de organización. Solo asegúrate de pegar el nombre que copiaste. El tipo de archivo por defecto ya es TXT.
 
 ![](/assets/images/balabolka-01-06.png){: .img-tutorial-h}
+
+Pega el nombre copiado y guarda
+{: .img-tutorial-leyenda}
 
 Verás que tu archivo ya tiene el nombre único generado por la hoja de cálculo.
 
@@ -108,8 +114,14 @@ Esos pasos son suficientes para que tu archivo esté listo para redactar. De acu
 
 ![](/assets/images/balabolka-01-08.png){: .img-tutorial-h}
 
+En YouTube, el texto que redactas será mostrado como descripción del video
+{: .img-tutorial-leyenda}
+
 - Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
 
 ![](/assets/images/balabolka-01-09.png){: .img-tutorial-h}
+
+Ubicación del caracter de apóstrofe en una distribución típica Español Latinoamérica
+{: .img-tutorial-leyenda}
 
 - El uso de mayúsculas y minúsculas no representa un cambio en la voz, pero te puede servir para acentuar palabras o conceptos, ya que en los subtítulos se mostrarán en mayúsculas.
