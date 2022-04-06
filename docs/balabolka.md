@@ -82,3 +82,5 @@ Busca un editor de texto. Si estás usando Windows el **Bloc de notas** es una b
 Al abrirlo, como acabas de copiar el texto del nombre de archivo producido por la hoja de cálculo, haz que tu primera acción sea guardarlo.
 
 ![](/assets/images/balabolka-01-05.png){: .img-tutorial-h}
+
+Elige la ubicación donde lo quieras guardar. Una sugerencia es que crees una carpeta exclusiva para este tipo de archivos, pero puedes guardarlo como mejor te parezca de acuerdo a tus hábitos de organización. Solo asegúrate de pegar el nombre que copiaste. El tipo de archivo por defecto ya es TXT.
