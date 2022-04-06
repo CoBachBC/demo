@@ -125,3 +125,17 @@ Ubicación del caracter de apóstrofe en una distribución típica Español Lati
 {: .img-tutorial-leyenda}
 
 - El uso de mayúsculas y minúsculas no representa un cambio en la voz, pero te puede servir para acentuar palabras o conceptos, ya que en los subtítulos se mostrarán en mayúsculas.
+
+Con eso en cuenta, tu archivo redactado puede verse similar a esto:
+
+![](/assets/images/balabolka-01-10.png){: .img-tutorial-h}
+
+### 4. Créditos
+
+Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**).
+
+Es aconsejable que los redactes por línea de una forma similar a la siguiente:
+
+![](/assets/images/balabolka-01-11.png){: .img-tutorial-h}
+
+En este caso se muestran ordenados por nombre en orden alfabético ascendente. Pueden ser ordenados de la forma que el equipo de trabajo convenga.
