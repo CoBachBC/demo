@@ -66,3 +66,19 @@ En la hoja de cálculo Entradas ESL CoBach BC, capturar los datos requeridos tom
 Tomando esto en cuenta, procede primero a registrar los datos del material que vas a generar. Si tu material corresponde al libro, usa la columna **Página** y captura su número de página, y captura en cero la columna **Índice**. La columna índice la usarás solo cuando el material que quieras producir no corresponda al libro, en ese caso captura Página en 0 y usa un consecutivo tomando en cuenta todos los materiales que vayas a querer producir que no estén relacionados con el libro.
 
 ![](/assets/images/balabolka-01-02.gif){: .img-tutorial-h}
+
+Al capturar los datos del material que vas a redactar, la hoja de cálculo te proporciona un nombre de archivo. Ese nombre de archivo es el que utilizarás para el archivo de texto que vas a guardar.
+
+![](/assets/images/balabolka-01-03.png){: .img-tutorial-h}
+
+Selecciona esa celda y cópiala.
+
+### 2. Creación del archivo de texto
+
+Busca un editor de texto. Si estás usando Windows el **Bloc de notas** es una buena opción, que ya viene preinstalado, y en MacOS puedes encontrar **TextEdit**. Los ejemplos que verás están basados en Windows 10 y el Bloc de notas.
+
+![](/assets/images/balabolka-01-04.png){: .img-tutorial-h}
+
+Al abrirlo, como acabas de copiar el texto del nombre de archivo producido por la hoja de cálculo, haz que tu primera acción sea guardarlo.
+
+![](/assets/images/balabolka-01-05.png){: .img-tutorial-h}
