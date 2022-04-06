@@ -86,3 +86,7 @@ Al abrirlo, como acabas de copiar el texto del nombre de archivo producido por l
 Elige la ubicación donde lo quieras guardar. Una sugerencia es que crees una carpeta exclusiva para este tipo de archivos, pero puedes guardarlo como mejor te parezca de acuerdo a tus hábitos de organización. Solo asegúrate de pegar el nombre que copiaste. El tipo de archivo por defecto ya es TXT.
 
 ![](/assets/images/balabolka-01-06.png){: .img-tutorial-h}
+
+Verás que tu archivo ya tiene el nombre único generado por la hoja de cálculo.
+
+![](/assets/images/balabolka-01-07.png){: .img-tutorial-h}
