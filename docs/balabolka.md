@@ -98,12 +98,12 @@ Esos pasos son suficientes para que tu archivo esté listo para redactar. De acu
 - No dejes espacios en blanco innecesarios. El archivo será leído por un programa, por lo que no requiere formato para presentación, solo estructurar en orden los enunciados que quieres sean producidos.
 - Considera iniciar con el nombre completo del tema.
 - Puedes usar lo siguiente para generar pausas:
- - Punto y a parte (**.**)
- - Punto y seguido (**.**)
- - Punto y coma (**;**)
- - Dos puntos (**:**)
- - Coma (**,**)
- - Puntos suspensivos (**...**)
+    - Punto y a parte (**.**)
+    - Punto y seguido (**.**)
+    - Punto y coma (**;**)
+    - Dos puntos (**:**)
+    - Coma (**,**)
+    - Puntos suspensivos (**...**)
 - Es aconsejable dejar un renglón en blanco entre el tema y los enunciados que desees producir, ya que el archivo que produzcas también será utilizado para incorporarse en la descripcióndel video, y eso le ayudará a tener legibilidad.
 
 ![](/assets/images/balabolka-01-08.png){: .img-tutorial-h}
