@@ -139,3 +139,9 @@ Es aconsejable que los redactes por línea de una forma similar a la siguiente:
 ![](/assets/images/balabolka-01-11.png){: .img-tutorial-h}
 
 En este caso se muestran ordenados por nombre en orden alfabético ascendente. Pueden ser ordenados de la forma que el equipo de trabajo convenga.
+
+### 5. Voces diferenciadas
+
+Los archivos pueden generarse con una sola voz, o con una combinación de ellas. Para el idioma inglés, dispone de una voz femenina (Zira), y una voz mascuina (Dave).
+
+Para agregar variación de voces, es necesario que el texto sea etiquetado, de tal forma que el programa sepa cuándo usar una voz distinta. **Por defecto hablará en inglés con la voz femenina Zira**.
