@@ -111,3 +111,5 @@ Esos pasos son suficientes para que tu archivo esté listo para redactar. De acu
 - Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
 
 ![](/assets/images/balabolka-01-09.png){: .img-tutorial-h}
+
+- El uso de mayúsculas y minúsculas no representa un cambio en la voz, pero te puede servir para acentuar palabras o conceptos, ya que en los subtítulos se mostrarán en mayúsculas.
