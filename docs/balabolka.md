@@ -68,6 +68,8 @@ En la [hoja de cálculo Entradas ESL CoBach BC](https://docs.google.com/spreadsh
 
 Tomando esto en cuenta, procede primero a registrar los datos del material que vas a generar. Si tu material corresponde al libro, usa la columna **Página** y captura su número de página, y captura en cero la columna **Índice**. La columna índice la usarás solo cuando el material que quieras producir no corresponda al libro, en ese caso captura Página en 0 y usa un consecutivo tomando en cuenta todos los materiales que vayas a querer producir que no estén relacionados con el libro.
 
+Para *Nombre corto* **no uses acentos, signos de puntuación, ni eñe**, escríbelo en inglés y reduce las palaras al mínimo, ya que servirá para el nombre de archivo. Que sea tan reducido como sea posible, pero que sea lo suficientemente descriptivo para saber cuál es el tema.
+
 ![](/assets/images/balabolka-01-02.gif){: .img-tutorial-h}
 
 Datos específicos del tema seleccionado
