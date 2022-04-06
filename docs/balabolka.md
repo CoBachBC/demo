@@ -79,7 +79,7 @@ Al capturar los datos del material que vas a redactar, la hoja de cálculo te pr
 
 ![](/assets/images/balabolka-01-03.png){: .img-tutorial-h}
 
-Selecciona esa celda y cópiala.
+Selecciona la celda **Nombre de archivo** y **cópiala**.
 {: .img-tutorial-leyenda}
 
 ### 2. Creación del archivo de texto
@@ -119,14 +119,14 @@ Esos pasos son suficientes para que tu archivo esté listo para redactar. De acu
     - Dos puntos (**:**)
     - Coma (**,**)
     - Puntos suspensivos (**...**)
-- Es aconsejable dejar un renglón en blanco entre el tema y los enunciados que desees producir, ya que el archivo que produzcas también será utilizado para incorporarse en la descripcióndel video, y eso le ayudará a tener legibilidad.
+- Es aconsejable dejar un renglón en blanco entre el tema y los enunciados que desees producir, ya que el archivo que produzcas también será utilizado para incorporarse en la descripción del video, y eso le ayudará a tener legibilidad.
 
 ![](/assets/images/balabolka-01-08.png){: .img-tutorial-h}
 
 En YouTube, el texto que redactas será mostrado como descripción del video
 {: .img-tutorial-leyenda}
 
-- Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
+- Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para Latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
 
 ![](/assets/images/balabolka-01-09.png){: .img-tutorial-h}
 
@@ -151,7 +151,7 @@ En este caso se muestran ordenados por nombre en orden alfabético ascendente. P
 
 ### 5. Voces diferenciadas
 
-Los archivos pueden generarse con una sola voz, o con una combinación de ellas. Para el idioma inglés, dispone de una voz femenina (Zira), y una voz mascuina (Dave).
+Los archivos pueden generarse con una sola voz, o con una combinación de ellas. Para el idioma inglés, dispone de una voz femenina (Zira), y una voz masculina (Dave).
 
 Para agregar variación de voces, es necesario que el texto sea etiquetado, de tal forma que el programa sepa cuándo usar una voz distinta. **Por defecto hablará en inglés con la voz femenina Zira**.
 
@@ -166,3 +166,12 @@ Por lo que un guión de texto con voces intercaladas se vería algo como esto:
 
 
 ![](/assets/images/balabolka-01-12.png){: .img-tutorial-h}
+
+### Archivo terminado
+
+Podrás saber que tienes un archivo válido para producir material didáctico verificando los siguientes puntos:
+
+- Todos los datos requeridos están capturados en [Entradas ESL CoBach BC](https://docs.google.com/spreadsheets/d/1DhRetj90AisoGd01740jlRBOGsHwRS2JzkQ1BGucOm0/edit?usp=sharing).
+- El archivo de texto está titulado con **Nombre de archivo** proporcionado por la hoja de cálculo.
+- Existe en la primera línea un título que describe la estructura o tema.
+- Los enunciados están redactados en líneas.
