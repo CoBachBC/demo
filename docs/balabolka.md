@@ -150,3 +150,8 @@ Cuando se quiera indicar el uso de la voz masculina, Dave, será necesario rodea
 
 - **`{dave}`**: Dave empieza a hablar
 - **`{findave}`**: Dave termina de hablar
+
+Por lo que un guión de texto con voces intercaladas se vería algo como esto:
+
+
+![](/assets/images/balabolka-12-10.png){: .img-tutorial-h}
