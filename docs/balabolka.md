@@ -104,3 +104,10 @@ Esos pasos son suficientes para que tu archivo esté listo para redactar. De acu
  - Dos puntos (**:**)
  - Coma (**,**)
  - Puntos suspensivos (**...**)
+- Es aconsejable dejar un renglón en blanco entre el tema y los enunciados que desees producir, ya que el archivo que produzcas también será utilizado para incorporarse en la descripcióndel video, y eso le ayudará a tener legibilidad.
+
+![](/assets/images/balabolka-01-08.png){: .img-tutorial-h}
+
+- Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
+
+![](/assets/images/balabolka-01-09.png){: .img-tutorial-h}
