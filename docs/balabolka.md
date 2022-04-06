@@ -61,7 +61,7 @@ Continuando con la suposición, pensemos que se desea producir un material audio
 
 ### 1. Registro de entrada
 
-En la hoja de cálculo Entradas ESL CoBach BC, capturar los datos requeridos tomando en cuenta las siguientes consideraciones:
+En la [hoja de cálculo Entradas ESL CoBach BC](https://docs.google.com/spreadsheets/d/1DhRetj90AisoGd01740jlRBOGsHwRS2JzkQ1BGucOm0/edit?usp=sharing), capturar los datos requeridos tomando en cuenta las siguientes consideraciones:
 
 - Las columnas en verde se completan automáticamente.
 - Las columnas en gris son para uso de Informática exclusivamente.
