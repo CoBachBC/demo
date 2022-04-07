@@ -19,15 +19,16 @@ nav_order: 99
 
 ### Cambio de voz dentro del guión
 
-$$Cambio de voz dentro del guión$$
-
 Usa etiquetas estilo XML para etiquetar el texto que debe ser hablado por la otra voz:
 
 `<voice required="Name=nombreDeVoz">` `Texto a ser hablado` `</voice>`
 
 Los nombres de voz para inglés son:
-* Microsoft Dave Desktop
-* Microsoft Zira Desktop
+* `Microsoft Dave Desktop`
+* `Microsoft Zira Desktop`
+
+Para español está:
+* `Microsoft Sabina Desktop`
 
 ### Plantilla de comando para convertir texto a audio
 
