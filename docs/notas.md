@@ -64,3 +64,9 @@ Se espera que el comando de conversión genere un archivo de audio y sus respect
 #### Espectro
 
 `ffmpeg -i` `entrada.wav` `-filter_complex "[0:a]showspectrum=s=1920x1080,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
+
+## GAM
+
+### Descargar registros de admins por rango temporal
+
+`gam` `report admin` `start 20XX-XX-XXT00:00:00.000Z` `end 20XX-XX-XXT11:59:59.000Z` `> salida.csv`
