@@ -17,6 +17,18 @@ nav_order: 99
 
 ## CLI Balabolka
 
+### Cambio de voz dentro del guión
+
+$$Cambio de voz dentro del guión$$
+
+Usa etiquetas estilo XML para etiquetar el texto que debe ser hablado por la otra voz:
+
+`<voice required="Name=nombreDeVoz">` `Texto a ser hablado` `</voice>`
+
+Los nombres de voz para inglés son:
+* Microsoft Dave Desktop
+* Microsoft Zira Desktop
+
 ### Plantilla de comando para convertir texto a audio
 
 Se espera que el comando de conversión genere un archivo de audio y sus respectivos subtítulos:
