@@ -23,7 +23,7 @@ Se espera que el comando de conversión genere un archivo de audio y sus respect
 
 `balcon` `-f entrada.txt` `-srt` `-isb` `-w salida.wav`
 
-* -f entrada.txt. Indica el archivo a leer.
-* -srt. Produce un archivo de texto de subtítulos
-* isb. Ignorará el texto que esté entre corchetes en el archivo de entrada.
-* -w salida.wav. Indica el archivo de salida.
+* **_-f entrada.txt_**. Indica el archivo a leer.
+* **_-srt_**. Produce un archivo de texto de subtítulos
+* **_-isb_**. Ignorará el texto que esté entre corchetes en el archivo de entrada.
+* **_-w salida.wav_**. Indica el archivo de salida.
