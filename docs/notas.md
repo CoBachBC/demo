@@ -43,7 +43,7 @@ Se espera que el comando de conversión genere un archivo de audio y sus respect
 
 ## CLI FFMPEG
 
-Convertir audio a video mostrando:
+### Convertir audio a video
 
 ### Forma de onda
 
