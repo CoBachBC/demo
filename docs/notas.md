@@ -17,3 +17,8 @@ nav_order: 99
 
 ## CLI Balabolka
 
+### Plantilla de comando para convertir texto a audio
+
+Se espera que el comando de conversión genere un archivo de audio y sus respectivos subtítulos:
+
+```balcon -f entrada.txt -srt -isb -w salida.wav
