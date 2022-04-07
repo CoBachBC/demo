@@ -70,3 +70,7 @@ Se espera que el comando de conversión genere un archivo de audio y sus respect
 ### Descargar registros de admins por rango temporal
 
 `gam` `report admin` `start 20XX-XX-XXT00:00:00.000Z` `end 20XX-XX-XXT11:59:59.000Z` `> salida.csv`
+
+### Desacargar lista de archivos de usuario
+
+`gam` `user usuario@cobachbc.edu.mx` `show filelist` `> salida.csv`
