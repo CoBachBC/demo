@@ -45,22 +45,22 @@ Se espera que el comando de conversión genere un archivo de audio y sus respect
 
 ### Convertir audio a video
 
-### Forma de onda
+#### Forma de onda
 
 `ffmpeg -i` `entrada.wav` `-filter_complex "[0:a]showwaves=mode=line:s=hd480:colors=#2FF3E0[v]" -map "[v]" -map 0:a -pix_fmt yuv420p -b:a 360k -r:a 44100` `salida.mp4`
 
-### Histograma
+#### Histograma
 
 `ffmpeg -i` `entrada.wav` `-filter_complex "[0:a]ahistogram=s=1920x1080,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
 
-### Histograma
+#### Histograma
 
 `ffmpeg -i` `entrada.wav` `-filter_complex  "[0:a]showfreqs=s=1920x1080:mode=line:fscale=log,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
 
-### Volumen
+#### Volumen
 
 `ffmpeg -i` `entrada.wav` `-filter_complex "[0:a]showvolume=f=0.5:c=VOLUME:b=4:w=1920:h=900,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
 
-### Espectro
+#### Espectro
 
 `ffmpeg -i` `entrada.wav` `-filter_complex "[0:a]showspectrum=s=1920x1080,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
