@@ -21,7 +21,7 @@ nav_order: 99
 
 Se espera que el comando de conversión genere un archivo de audio y sus respectivos subtítulos:
 
-```balcon -f entrada.txt -srt -isb -w salida.wav
+```balcon -f entrada.txt -srt -isb -w salida.wav```
 
 - **-f entrada.txt**
 - **-srt**
