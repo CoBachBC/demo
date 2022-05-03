@@ -165,7 +165,7 @@ Si necesitas agregar el identificador de país puedes anteponerlo usando parént
 
 - (52) 123-456-7890
 
-### Dinero
+### 4.3 Dinero
 
 Anteponiendo el signo **$** convertirá el número en un valor monetario. Cuando expreses cantidades monetarias **usa siempre** comas cada 3 dígitos cuando sean necesarias, y finaliza la cantidad con **.00**, expresa los centavos cuando necesites en esta última parte. **Nunca uses espacios** dentro de una cantidad. Por ejemplo:
 
