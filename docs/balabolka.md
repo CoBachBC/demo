@@ -165,6 +165,17 @@ Si necesitas agregar el identificador de país puedes anteponerlo usando parént
 
 - (52) 123-456-7890
 
+### Dinero
+
+Anteponiendo el signo **$** convertirá el número en un valor monetario. Cuando expreses cantidades monetarias **usa siempre** comas cada 3 dígitos cuando sean necesarias, y finaliza la cantidad con **.00**, expresa los centavos cuando necesites en esta última parte. **Nunca uses espacios** dentro de una cantidad. Por ejemplo:
+
+- $25.00
+- $486.52
+- $5,034.00
+- $71,340.10
+- $314,854.03
+- $9,014,357.07
+
 ### 5. Créditos
 
 Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**) al final de tu archivo de texto.
