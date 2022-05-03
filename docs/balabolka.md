@@ -176,6 +176,15 @@ Anteponiendo el signo **$** convertirá el número en un valor monetario. Cuando
 - $314,854.03
 - $9,014,357.07
 
+#### 4.4 Fechas
+
+Usa el formato **mes día año** para que identifique automáticamente las fechas. El año lo puedes escribir con 4 dígitos para que lo pronuncie completo, o con 2 dígitos para que pronuncie solo las decenas. Puedes usar **guiones o diagonales** para separar el día, del mes, del año. Por ejemplo:
+
+- 05-03-2022
+- 05/03/2022
+- 05-03-22
+- 05/03/22
+
 ### 5. Créditos
 
 Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**) al final de tu archivo de texto.
