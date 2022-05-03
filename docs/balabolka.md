@@ -139,7 +139,23 @@ Con eso en cuenta, tu archivo redactado puede verse similar a esto:
 
 ![](/assets/images/balabolka-01-10.png){: .img-tutorial-h}
 
-### 4. Créditos
+### 4. Números y cantidades
+
+#### 4.1 Números enteros simples
+
+Puedes escribir los número simples directamente. Opcionalmente, puedes escribir una coma para separar las centenas de los millares, y los millares de los millones, si deseas mejorar la legibilidad del número en los subtítulos.:
+
+- 5
+- 94
+- 604
+- 1546 o 1,546
+- 65983 o 65,983
+- 352486 o 352,486
+- 1586543 o 1,586,543
+
+Cualquiera que sea la opción que elijas **no uses espacios** para separar los dígitos de un solo número
+
+### 5. Créditos
 
 Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**) al final de tu archivo de texto.
 
@@ -149,7 +165,7 @@ Es aconsejable que los redactes por línea de una forma similar a la siguiente:
 
 En este caso se muestran ordenados por nombre en orden alfabético ascendente. Pueden ser ordenados de la forma que el equipo de trabajo convenga.
 
-### 5. Voces diferenciadas
+### 6. Voces diferenciadas
 
 Los archivos pueden generarse con una sola voz, o con una combinación de ellas. Para el idioma inglés, dispone de una voz femenina (Zira), y una voz masculina (Dave).
 
@@ -166,7 +182,7 @@ Por lo que un guión de texto con voces intercaladas se vería algo como esto:
 
 ![](/assets/images/balabolka-01-12.png){: .img-tutorial-h}
 
-### 6. Archivo terminado
+### 7. Archivo terminado
 
 Podrás saber que tienes un archivo válido para producir material didáctico verificando los siguientes puntos:
 
