@@ -126,14 +126,18 @@ Esos pasos son suficientes para que tu archivo esté listo para redactar. De acu
 En YouTube, el texto que redactas será mostrado como descripción del video
 {: .img-tutorial-leyenda}
 
-- Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para Latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
+- El uso de mayúsculas y minúsculas no representa un cambio en la voz, pero te puede servir para acentuar palabras o conceptos, ya que en los subtítulos se mostrarán en mayúsculas.
+
+#### 3.1 Uso de apóstrofe para contracciones
+
+Verifica la configuración de tu teclado y usa el caracter correcto para los apóstrofes en las contracciones. En un teclado típico con configuración para Latinoamérica (tiene la Ñ presente), normalmente se encontrará en la tecla siguiente al cero.
+
+El código ASCII para este caracter es **`ALT + 39`**, en caso de no poder ubicarlo en la distribución del teclado.
 
 ![](/assets/images/balabolka-01-09.png){: .img-tutorial-h}
 
 Ubicación del caracter de apóstrofe en una distribución típica Español Latinoamérica
 {: .img-tutorial-leyenda}
-
-- El uso de mayúsculas y minúsculas no representa un cambio en la voz, pero te puede servir para acentuar palabras o conceptos, ya que en los subtítulos se mostrarán en mayúsculas.
 
 Con eso en cuenta, tu archivo redactado puede verse similar a esto:
 
