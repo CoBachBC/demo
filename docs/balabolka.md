@@ -155,6 +155,16 @@ Puedes escribir los número simples directamente. Opcionalmente, puedes escribir
 
 Cualquiera que sea la opción que elijas **no uses espacios** para separar los dígitos de un solo número
 
+#### 4.2 Números telefónicos
+
+Utiliza guiones para separar números telefónicos, usa el formato de 10 dígitos de la siguiente manera:
+
+- 123-456-7890
+
+Si necesitas agregar el identificador de país puedes anteponerlo usando paréntesis, de la siguiente manera:
+
+- (52) 123-456-7890
+
 ### 5. Créditos
 
 Si deseas añadir créditos que se muestren en la descripción del video, pero no sean parte de la voz hablada, puedes incorporarlos dentro de corchetes (**[]**) al final de tu archivo de texto.
