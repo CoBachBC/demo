@@ -24,7 +24,7 @@ Usa etiquetas estilo XML para etiquetar el texto que debe ser hablado por la otr
 `<voice required="Name=nombreDeVoz">` `Texto a ser hablado` `</voice>`
 
 Los nombres de voz para inglés son:
-* `Microsoft Dave Desktop`
+* `Microsoft David Desktop`
 * `Microsoft Zira Desktop`
 
 Para español está:
