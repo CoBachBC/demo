@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Herramientas de Google
+title: Google Workspace
 nav_order: 3
 ---
 
@@ -107,6 +107,31 @@ Cada perfil se abrirá en su propio navegador, por lo que puedes aprovechar al m
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fvObjMXwIG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Filtros
+
+#### Cuentas que únicamente envían información
+
+Las cuentas de servicio o de envío usadas por sistemas o equipos se sugiere sean configuradas con el siguiente filtro:
+
+Abre la búsqueda avanzada para iniciar el proceso e creación del filtro.
+
+![](/assets/images/workspace-gmail-001-01.png){: .img-tutorial-h}
+
+Haz clic en el icono derecho de la barra de búsqueda
+{: .img-tutorial-leyenda}
+
+Selecciona buscar en **Enviados** y haz clic en **Crear filtro**.
+
+![](/assets/images/workspace-gmail-001-02.png){: .img-tutorial-h}
+
+Haz clic en **Aceptar** en la ventana del aviso.
+
+![](/assets/images/workspace-gmail-001-03.png){: .img-tutorial-h}
+
+Para finalizar el filtro, habilita **Eliminar**. Si la cuenta tiene mensajes ya enviados, puedes habilitar también la útima opción para eliminar los enviados ya existentes.
+
+![](/assets/images/workspace-gmail-001-04.png){: .img-tutorial-h}
 
 ## Meet
 
