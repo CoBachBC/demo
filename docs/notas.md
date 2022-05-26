@@ -24,11 +24,19 @@ Usa etiquetas estilo XML para etiquetar el texto que debe ser hablado por la otr
 `<voice required="Name=nombreDeVoz">` `Texto a ser hablado` `</voice>`
 
 Los nombres de voz para inglés son:
-* `Microsoft Dave Desktop`
+* `Microsoft David Desktop`
 * `Microsoft Zira Desktop`
 
 Para español está:
 * `Microsoft Sabina Desktop`
+
+#### Formato final de etiquetas de apertura XML
+* `<voice required="Name=Microsoft David Desktop">`
+* `<voice required="Name=Microsoft Zira Desktop">`
+* `<voice required="Name=Microsoft Sabina Desktop">`
+
+#### Formato final de etiqueta de cierre XML
+* `</voice>`
 
 ### Plantilla de comando para convertir texto a audio
 
