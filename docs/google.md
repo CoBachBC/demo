@@ -114,7 +114,7 @@ Cada perfil se abrirá en su propio navegador, por lo que puedes aprovechar al m
 
 Las cuentas de servicio o de envío usadas por sistemas o equipos se sugiere sean configuradas con el siguiente filtro:
 
-Abre la búsqueda avanzada para iniciar el proceso e creación del filtro.
+Abre la búsqueda avanzada para iniciar el proceso de creación del filtro.
 
 ![](/assets/images/workspace-gmail-001-01.png){: .img-tutorial-h}
 
@@ -132,6 +132,8 @@ Haz clic en **Aceptar** en la ventana del aviso.
 Para finalizar el filtro, habilita **Eliminar**. Si la cuenta tiene mensajes ya enviados, puedes habilitar también la útima opción para eliminar los enviados ya existentes.
 
 ![](/assets/images/workspace-gmail-001-04.png){: .img-tutorial-h}
+
+De esta manera, la cuenta eliminará automáticamente los correos que conserva en *Enviados*, evitando la acumulación histórica de correos.
 
 ## Meet
 
