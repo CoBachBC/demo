@@ -23,7 +23,7 @@ La primera alternativa para exportar contenido es [Google Takeout](https://takeo
 
 ### Gmail ¿Cómo consulto mis correos exportados?
 
-Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source [**Thunderbird** de Mozilla](thunderbird.net/es-ES/).
+Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source [**Thunderbird** de Mozilla](https://www.thunderbird.net/es-ES/).
 
 
 
