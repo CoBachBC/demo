@@ -203,9 +203,9 @@ En este caso se muestran ordenados por nombre en orden alfabético ascendente. P
 
 Los archivos pueden generarse con una sola voz, o con una combinación de ellas. Para el idioma inglés, dispone de una voz femenina (Zira), y una voz masculina (Dave).
 
-Para agregar variación de voces, es necesario que el texto sea etiquetado, de tal forma que el programa sepa cuándo usar una voz distinta. **Por defecto hablará en inglés con la voz femenina Zira**.
+Para agregar variación de voces, **es necesario que cada renglón que se desea sea hablado por la voz distinta** sea etiquetado, de tal forma que el programa sepa cuándo usar una voz distinta. **Por defecto hablará en inglés con la voz femenina Zira**.
 
-Cuando se quiera indicar el uso de la voz masculina, Dave, será necesario rodear el texto que se desea sea pronunciado por *él* con etiquetas especiales para saber cuándo empieza a hablar Dave y cuándo termina de hablar.
+Cuando se quiera indicar el uso de la voz masculina, Dave, será necesario **rodear cada renglón** que se desea sea pronunciado por *él* con etiquetas especiales para saber cuándo empieza a hablar Dave y cuándo termina de hablar.
 
 - **`{dave}`** (llave de apertura + dave + llave de cierre): Dave empieza a hablar
 - **`{findave}`** (llave de apertura + findave + llave de cierre): Dave termina de hablar
