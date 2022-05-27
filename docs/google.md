@@ -15,6 +15,18 @@ nav_order: 3
 
 ---
 
+## Exportar contenido de tu cuenta
+
+Considerando los límites de almacenamiento que entran en vigor en julio de 2022, los siguientes recursos para exportar contenido de las aplicaciones de Google Workspace para archivar fuera de línea te pueden ser útiles.
+
+La primera alternativa para exportar contenido es [Google Takeout](https://takeout.google.com/). Esta herramienta está diseñada por Google para que descarguemos cualquier contenido de cualquiera de sus aplicaciones, por lo que será siempre la primera sugerencia de uso. Puedes [consultar su ayuda detallada aquí](https://support.google.com/accounts/answer/3024190?hl=es).
+
+### Gmail ¿Cómo consulto mis correos exportados?
+
+Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source [**Thunderbird** de Mozilla](https://support.google.com/accounts/answer/3024190?hl=es).
+
+
+
 ## Google Chrome
 
 Todas las cuentas **@cobachbc.edu.mx** son cuentas Google, por lo que usar el navegador de Google para sus aplicaciones es lo mejor que podemos hacer, ya que ellos configuran sus aplicaciones web pensando siempre en su navegador primero, y algunas funciones solo están disponibles en Chrome.
