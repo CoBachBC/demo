@@ -17,6 +17,14 @@ nav_order: 99
 
 ## CLI Balabolka
 
+### Configuraciones predeterminadas
+
+Puedes configurar características por defecto en `balcon.exe` creando un archivo de texto **`balcon.cfg`**. Escribiendo parámetros base para que todas las ejecuciones tengan dicha configuración
+
+{% highlight batch %}
+-n Microsoft Zira
+{% endhighlight %}
+
 ### Cambio de voz dentro del guión
 
 Usa etiquetas estilo XML para etiquetar el texto que debe ser hablado por la otra voz:
