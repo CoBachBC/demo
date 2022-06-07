@@ -19,7 +19,7 @@ nav_order: 99
 
 ### Configuraciones predeterminadas
 
-Puedes configurar características por defecto en `balcon.exe` creando un archivo de texto **`balcon.cfg`**. Escribiendo parámetros base para que todas las ejecuciones tengan dicha configuración
+Puedes configurar características por defecto en `balcon.exe` creando un archivo de texto `**balcon.cfg**`. Escribiendo parámetros base para que todas las ejecuciones tengan dicha configuración. Por ejemplo, para que la voz por defecto sea *Microsoft Zira*:
 
 {% highlight batch %}
 -n Microsoft Zira
