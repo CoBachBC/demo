@@ -69,7 +69,7 @@ Se espera que el comando de conversión genere un archivo de audio y sus respect
 
 `ffmpeg -i` `entrada.wav` `-filter_complex "[0:a]ahistogram=s=1920x1080,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
 
-#### Histograma
+#### Frecuencias
 
 `ffmpeg -i` `entrada.wav` `-filter_complex  "[0:a]showfreqs=s=1920x1080:mode=line:fscale=log,format=yuv420p[v]" -map "[v]" -map 0:a` `salida.mp4`
 
