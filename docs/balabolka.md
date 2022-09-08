@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Balabolka
-nav_order: 5
+nav_order: 3
 ---
 
 # Balabolka
