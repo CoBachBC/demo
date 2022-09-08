@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Licenciamiento Teaching and Learning
-nav_order: 2
+nav_order: 3
 ---
 
 # Twine
@@ -17,3 +17,4 @@ nav_order: 2
 
 ## ¿Qué es una licencia Teaching and Learning?
 
+Todas las cuentas **@cobachbc.edu.mx** son cuentas _Google_ gratuitas para educación. 
