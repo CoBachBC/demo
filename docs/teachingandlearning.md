@@ -4,7 +4,7 @@ title: Licenciamiento Teaching and Learning
 nav_order: 3
 ---
 
-# Twine
+# Licenciamiento Teaching and Learning
 {: .no_toc }
 
 ## Temas
@@ -15,21 +15,29 @@ nav_order: 3
 
 ---
 
-## ¿Qué es una licencia Teaching and Learning?
+## Las cuentas @cobachbc.edu.mx son gratuitas ¿Para qué necesitamos licenciamiento?
 
-Todas las cuentas **@cobachbc.edu.mx** son cuentas _Google_ gratuitas para educación. Google ofrece características y funcionalidades adicionales en otros modelos de servicio que no son gratuitos. Una forma de acceder a algunos de estos beneficios es mediante el licenciamiento _Teaching and Learning_ (T&A).
+El servicio que ofrece Google de forma gratuita a todas las instituciones educativas se llama actualmente **Google Workspace for Education Fundamentals**, que incluye funciones esenciales en todas las aplicaciones base de su plataforma de trabajo (Gmail, Drive, Meet, etc.).
 
-Una licencia **T&A** proporciona acceso a:
+Existen otras versiones de paga con funciones adicionales. Algunas de estas funciones son muy útiles (como la grabación de las videollamadas).
 
-- Grabación directa de videollamadas
+## ¿Qué es Teaching and Learning?
+
+El licenciamiento Teaching and Learning (**T&A** de aquí en adelante) es la forma en que Google pone a disposición de escuelas funciones y características adicionales, las cuales están seleccionadas por ellos pensadas expresamente para el ámbito docente. Por lo que **T&A** agrega funciones al usuario que se le asigna.
+
+### Funciones y características que agrega al usuario
+
+- Capacidad para grabar las videollamadas
+- Acitivades adicionales dentro de la videollamada (preguntas y respuestas, encuestas)
 - Grupos separados dentro de la videollamada
-- Actividades adicionales en videollamadas
-- Reportes de originalidad ilimitados en Classroom
+- Reportes ilimitados de originalidad en Classroom
 
-## ¿Cómo se aplican?
+### T&A no modifica lo que ya existe
 
-Las licencias **T&A** deben ser adquiridas por la institución educativa, y tienen una vigencia de 1 año. Dichas licencias son asignadas a usuarios de acuerdo al perfil de uso y necesidades. Tomando en cuenta la descripción anterior, son asignadas a usuarios docentes.
+- No modifica tu contraseña
+- No afecta el contenido que ya existe en tu cuenta
+- No te da más almacenamiento
 
-La licencia se vincula a la cuenta del docente a quien se le asigna, a partir de ese momento, el usuario al que se le asignó ya tiene acceso a las características y funcionalidades adicionales.
+### ¿Qué pasa si me asignan una licencia T&A y después la remueven?
 
-La asignación de la licencia *T&A* no afecta o modifica ni la contraseña del usuario, ni su contenido en Correo y Drive, ni los documentos copartidos, u otro contenido de la cuenta. Solo provee características y funcionalidades adicionales.
+En caso de haber sido asignado una licencia, y posteriormente te sea removida, lo único que sucederá es que **perderás el acceso a las funciones y características adicionales** no perderás el contenido que hayas creado previamente con sus funciones. La información que almacenas en tu cuenta solo puede ser eliminada por ti.
