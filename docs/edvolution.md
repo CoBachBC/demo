@@ -34,3 +34,17 @@ En **My Edvolution** encontrarás:
 1. Accede a [https://my.edvolution.io/](https://my.edvolution.io/)
 1. Haz clic en **Iniciar sesión**
 1. Haz clic en **Iniciar sesión con Google**. La primera vez que lo hagas, verás una ventana que te pedirá seleccionar la cuenta con la que deseas iniciar sesión. Asegúrate de **seleccionar la cuenta que tiene asignada la licencia Teaching and Learning**.
+
+#### Inicio
+
+Este panel tiene un resumen informativo y enlaces a recursos recientes.
+
+#### Recursos
+
+Típicamente utilizarás los apartados de **Cursos** y **Otros**, la descripción de cada uno es:
+
+- **Cursos**. Material preparado por Edvolution para aprender a sacarle el mayor provecho a las herramientas digitales
+- **Equipo directivo**. Información sobre las ventajas del uso de dispositivos Chromebook
+- **Profesores**. Información sobre las insignias digitales que pueden ganar al completar material de capacitación
+- **Talento de TI**. Información dirigida al personal técnico que administra los servicios de TI
+- **Otros**. Material recabado o preparado por CoBach BC para los docentes
