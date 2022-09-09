@@ -48,3 +48,15 @@ Típicamente utilizarás los apartados de **Cursos** y **Otros**, la descripció
 - **Profesores**. Información sobre las insignias digitales que pueden ganar al completar material de capacitación
 - **Talento de TI**. Información dirigida al personal técnico que administra los servicios de TI
 - **Otros**. Material recabado o preparado por CoBach BC para los docentes
+
+#### Asistencia de Meet
+
+Es un buscador de sesiones de Meet en el que podrás consultar detalladamente la información y actividad de tus videollamadas.
+
+#### Academia
+
+Si te has inscrito a cursos en la plataforma My Edvolution, aquí verás aquellos que estén activos, así como acceso para ver otros cursos disponibles.
+
+#### Insignias
+
+Al completar algunos cursos obtendrás **Insignias** que validan tu aprendizaje. En este apartado podrás ver todas las Insignias que has obtenido.
