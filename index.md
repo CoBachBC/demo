@@ -32,6 +32,10 @@ Usa la herramienta de contacto para cualquier duda a la que no encuentres respue
 
 Tecnología Educativa CBBC &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática CoBach BC](https://github.com/CoBachBC).
 
+## Acceso fuera de línea
+
+[Descarga](/assets/edutec.zim) esta web en formato Zim para ser consultada fuera de línea con Kiwix
+
 ### Licencia
 
 Tecnología Educativa CBBC está basado en la plantilla [Just the Docs](https://github.com/pmarsceill/just-the-docs) distribuida bajo [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
