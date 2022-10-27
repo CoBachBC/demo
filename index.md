@@ -2,44 +2,54 @@
 layout: default
 title: Inicio
 nav_order: 1
-description: "Recopilación de herramientas educativas enfocadas para el proceso educativo de Colegio de Bachilleres del Estado de Baja California."
+description: "Material didáctico de reforzamiento"
 permalink: /
 ---
 
-# Tecnología para el proceso educativo con un enfoque práctico
+# Material didáctico de reforzamiento 1er. Semestre
 {: .fs-9 }
 
-Las propuestas de herramientas tecnológicas que encontrarás aquí tienen el enfoque de ser claramente aplicables y contribuir directamente a los objetivos del proceso educativo.
+{% comment %}
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
 {: .fs-6 .fw-300 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+{% endcomment %}
+
+## Descarga
+
+Baja una copia de este sitio para poder consultar toda la información sin usar tus datos:
+
+1. Descarga en tu celular, tableta, o laptop [la aplicación Kiwix](https://www.kiwix.org/en/download/)
+1. Descarga en ese mismo dispositivo [el archivo ZIM de este sitio](/assets/demo-asesorias.zim)
+1. Abre Kiwix y ubica el archivo que descargaste
+1. Ahora puedes consultar toda la información que ves aquí fuera de línea
 
 ---
+{% comment %}
+{: .new }
+> **Pre-release version `0.4.0.rc3` is available!**
+> See [the CHANGELOG]({{ site.baseurl }}{% link CHANGELOG.md %}) for a detailed breakdown.
 
-## Inicio rápido
+{: .warning }
+> Specifying `gem "just-the-docs"` in your `Gemfile` uses the latest ***release*** (`v0.3.3`), ignoring all pre-releases!
+> To use this pre-release, pin it:
+> ```ruby
+> gem "just-the-docs", "0.4.0.rc3"
+> ```
+> and/or
+> ```yaml
+> remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+> ```
+{% endcomment %}
 
-### Búsqueda de temas
+## Materia 1
 
-La forma más rápida de empezar a utilizar los recursos es hacer una búsqueda del tema que te interesa. Encontrarás que la barra de búsqueda te proporciona resultados inmediatos y claramente desglosados para que rápidamente estés aplicando aquello que necesitas.
+[Ver temas](/docs/materia-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-### Tabla de contenidos
+## Química I
 
-Si tienes tiempo y quieres descubrir los diferentes temas, echa un vistazo a la tabla de contenidos y explora las agrupaciones de publicaciones.
+[Ver temas](/docs/quimica-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-### ¿Hay algo que necesitas y no lo encuentras?
+## Informática I
 
-Usa la herramienta de contacto para cualquier duda a la que no encuentres respuesta, si quieres sugerir un tema, o si quieres contribuir a publicar información para ayudar a los demás.
-
-## Acerca del proyecto
-
-Tecnología Educativa CBBC &copy; 2020-{{ "now" | date: "%Y" }} por el [Departamento de informática CoBach BC](https://github.com/CoBachBC).
-
-## Acceso fuera de línea
-
-[Descarga](/assets/edutec.zim) esta web en formato Zim para ser consultada fuera de línea con Kiwix
-
-### Licencia
-
-Tecnología Educativa CBBC está basado en la plantilla [Just the Docs](https://github.com/pmarsceill/just-the-docs) distribuida bajo [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
-
-### Contribuciones
-
-Si deseas contribuir directamente al desarrollo de este sitio, por favor primero plantea la propuesta que deseas realizar abriendo un <strong>Issue</strong>, <a href="mailto:edutec@cobachbc.edu.mx">enviando un correo</a>, o cualquier otro medio de contacto que tenga el propietario de este repositorio.
+[Ver temas](/docs/informatica-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
