@@ -15,194 +15,87 @@ nav_order: 3
 
 ---
 
-## Exportar contenido de tu cuenta
+## BLOQUE I. QUÍMICA COMO HERRAMIENTA DE LA VIDA
 
-Considerando los límites de almacenamiento que entran en vigor en julio de 2022, los siguientes recursos para exportar contenido de las aplicaciones de Google Workspace para archivar fuera de línea te pueden ser útiles.
+### Método científico
 
-La primera alternativa para exportar contenido es [Google Takeout](https://takeout.google.com/). Esta herramienta está diseñada por Google para que descarguemos cualquier contenido de cualquiera de sus aplicaciones, por lo que será siempre la primera sugerencia de uso. Puedes [consultar su ayuda detallada aquí](https://support.google.com/accounts/answer/3024190?hl=es).
+El método científico es una metodología para obtener nuevos conocimientos, que ha caracterizado históricamente a la ciencia, y que consiste en la observación sistemática, medición, experimentación, y la formulación, análisis y modificación de hipótesis.
 
-### Gmail ¿Cómo consulto mis correos exportados?
+![El método científico](/assets/images/quimica-1-bloque-1-01.jpg "El método científico")
 
-Al exportar tus correos con **Google Takeout** tendrás un archivo *.mbox* que no podrás consultar directamente. Las siguientes instrucciones te mostrarán cómo cargar dicho archivo en el cliente gratuito open-source [**Thunderbird** de Mozilla](https://www.thunderbird.net/es-ES/).
+## BLOQUE II. INTERRELACIÓN ENTRE MATERIA Y ENERGÍA 
 
-- Abre Thunderbird. Si no lo tienes instalado [descárgalo e instálalo para continuar](https://www.thunderbird.net/es-ES/).
+### Definición de energía
 
-- Si es la primera vez que usas Thunderbird, verás una pantalla similar a esta. Elige **Cancelar**.
+El término energía tiene diversas acepciones y definiciones, relacionadas con la idea de una capacidad para obrar, surgir, transformar o poner en movimiento. En física, energía se define como la capacidad para realizar un trabajo.​ En tecnología y economía, «energía» se refiere a un recurso natural.
 
-![](/assets/images/workspace-takeout-mbox-01.png){: .img-tutorial-h}
+###  Transformaciones de la energía
 
-- Verifica que estés en la pestaña de inicio haciendo clic en la esquina superior izquierda.
+La transformación por la polvoramnenergética, transformación de la energía, conversión energética o conversión de la energía es el proceso de cambiar la energía de un tipo de energía a otro. En física, la energía es una cantidad que proporciona la capacidad de realizar un trabajo (por ejemplo, levantar un objeto) o proporciona calor. Además de ser convertible, de acuerdo con la ley de conservación de la energía, la energía es transferible a una ubicación u objeto diferente, pero no se puede crear ni destruir.
 
-![](/assets/images/workspace-takeout-mbox-02.png){: .img-tutorial-h}
+![Transformación de la energía](/assets/images/quimica-1-bloque-2-01.gif "Transformación de la energía")
 
-- Haz clic en el botón **Canales**
+## BLOQUE III. MODELO ATÓMICO Y APLICACIONES
 
-![](/assets/images/workspace-takeout-mbox-03.png){: .img-tutorial-h}
+### Partículas subatómicas: Electrón, protón y neutrón
 
-- Ingresa un nombre para identificarlo
+Una partícula subatómica es aquella que es más pequeña que el átomo. Puede ser una partícula elemental o una compuesta, a su vez, por otras partículas, como los quarks que componen los protones y los neutrones.
 
-![](/assets/images/workspace-takeout-mbox-04.png){: .img-tutorial-h}
+![Modelo atómico](/assets/images/quimica-1-bloque-3-01.png "Modelo atómico")
 
-- Haz clic en **Finalizar**
+### Números cuánticos
 
-![](/assets/images/workspace-takeout-mbox-05.png){: .img-tutorial-h}
+Los números cuánticos son unos números asociados a magnitudes físicas conservadas en ciertos sistemas cuánticos. En muchos sistemas, el estado del sistema puede ser representado por un conjunto de números, los números cuánticos, que se corresponden con valores posibles observables los cuales conmutan con el hamiltoniano del sistema.
 
-- Haz clic en el botón de menú en la esquina superior derecha, y luego haz clic en **Configuración de cuenta**.
 
-![](/assets/images/workspace-takeout-mbox-06.png){: .img-tutorial-h}
+### Isótopos
 
-- Selecciona **Carpetas locales** y haz clic en el botón **Examinar**. 
+Se denomina isótopos a los átomos de un mismo elemento, cuyos núcleos tienen una cantidad diferente de neutrones, y por lo tanto, difieren en número másico.
 
-![](/assets/images/workspace-takeout-mbox-07.png){: .img-tutorial-h}
+## BLOQUE IV. TABLA PERIÓDICA
 
-- Selecciona la carpeta que contiene **tu archivo .mbox** y haz clic en **Seleccionar carpeta**. 
+### Tabla periódica
 
-![](/assets/images/workspace-takeout-mbox-08.png){: .img-tutorial-h}
+La tabla periódica de los elementos es una disposición de los elementos químicos en forma de tabla, ordenados por su número atómico,​ por su configuración de electrones y sus propiedades químicas. Este ordenamiento muestra tendencias periódicas como elementos con comportamiento similar en la misma columna.
 
-- Thunderbird te notificará que necesita reiniciar, haz clic en Reiniciar
+![Tabla periódica](/assets/images/quimica-1-bloque-4-01.png "Tabla periódica")
 
-![](/assets/images/workspace-takeout-mbox-09.png){: .img-tutorial-h}
+##  BLOQUE V. ENLACES QUÍMICOS E INTERACCIONES INTERMOLECULARES
 
-- Al reiniciar Thunderbird te mostrará la pestaña en que estabas trabajando. Puedes cerrar la pestaña de configuración y la noticias para que te quedes solo con la que te muestra tus correos.
+### Enlace químico
 
-![](/assets/images/workspace-takeout-mbox-10.png){: .img-tutorial-h}
+Un enlace químico es el proceso químico responsable de las interacciones atractivas entre átomos y moléculas,​y que confiere estabilidad a los compuestos químicos diatómicos y poliatómicos. La explicación de tales fuerzas atractivas es un área compleja que está descrita por las leyes de la química cuántica.
 
-- En la parte izquierda, encontrarás una sección de **Carpetas locales**, y en ella encontrarás el nombre de tu archivo .mbox (que contiene el respaldo de tus correos). Haz clic en él (puede tardar un momento en cargarlo, dependiendo de la cantidad de información).
+![Enlace químico](/assets/images/quimica-1-bloque-5-01.png "Enlace químico")
 
-![](/assets/images/workspace-takeout-mbox-11.png){: .img-tutorial-h}
+### Enlace iónico
 
-- En la sección principal verás la lista de correos, al seleccionar uno verás su contenido en el panel inferior.
+Un enlace iónico o electrovalente​ es el resultado de la presencia de atracción electrostática entre los iones de distinto signo respecto a las valencias de los elementos y el número de electrones que deben perder o ganar para completar las capas, es decir, uno fuertemente electropositivo y otro fuertemente electronegativo.​ Eso se da cuando en el enlace, uno de los átomos capta electrones del otro.
 
-![](/assets/images/workspace-takeout-mbox-12.png){: .img-tutorial-h}
+![Enlace iónico](/assets/images/quimica-1-bloque-5-02.png "Enlace iónico")
 
-- Para filtrar tus correos, ingresa el término que buscas en la casilla de filtro en la parte derecha de la barra de acciones en el panel principal.
+## BLOQUE VI. NOMENCLATURA DE COMPUESTOS INORGÁNICOS
 
-![](/assets/images/workspace-takeout-mbox-13.png){: .img-tutorial-h}
+### Oxiácidos
 
-## Google Chrome
+Los ácidos son sustancias que, en solución acuosa, ionizan produciendo un catión hidronio.
 
-Todas las cuentas **@cobachbc.edu.mx** son cuentas Google, por lo que usar el navegador de Google para sus aplicaciones es lo mejor que podemos hacer, ya que ellos configuran sus aplicaciones web pensando siempre en su navegador primero, y algunas funciones solo están disponibles en Chrome.
+### Hidrácidos
 
-### Creación de perfil
+Los hidrácidos, o ácidos binarios, son compuestos disueltos en agua que se componen de hidrógeno y un elemento no metálico: los haluros de hidrógeno.
 
-Crear un perfil nos permite iniciar sesión con nuestra cuenta **@cobachbc.edu.mx** en el programa del navegador, esto hará que nuestra cuenta institucional esté por defecto configurada con las página de Google. De esta manera no tienes que hacer inicio de sesión cada vez que usas el navegador.
+### Hidruros
 
-Además de permitir esto, también te permite fácilmente trabajar fuera de línea con Drive y documentos, por ejemplo, así como tener múltiples usuarios con esas propiedades.
+Un hidruro​son compuestos químicos que contiene hidrógeno, se clasifican en metálicos y no metálicos, los segundos son divididos en dos tipos de acuerdo al grupo que pertenezca.
 
-Al usar Chrome por primera vez no tendrá ninguna cuenta asociada, y te invita a que hagas inicio de sesión.
+## BLOQUE VII. REACCIONES QUÍMICAS
 
-![](/assets/images/chrome-crear-perfil-01.jpg){: .img-tutorial-h}
+### Ecuación química
 
-Chrome te invita a que inices sesión con una cuenta de Google.
-{: .img-tutorial-leyenda}
+Una ecuación química es la descripción simbólica de una reacción química. Muestra las sustancias que reaccionan y las sustancias que se originan. La ecuación química ayuda a visualizar más fácilmente los reactivos y los productos.
 
-Si no lo hiciste la primera vez, puedes abrir el menú de usuario en la esquina superior derecha, **justo a un lado de la barra de direcciones**, verás una ventana como la siguiente:
+### Aplicación de la Ley de la conservación de la materia
 
-![](/assets/images/chrome-crear-perfil-02.jpg){: .img-tutorial-h}
+La ley de conservación de la materia, ley de conservación de la masa o ley de Lomonósov-Lavoisier es una ley fundamental de las ciencias naturales. Fue elaborada independientemente por Mijaíl Lomonósov en 1748 y descubierta unos años después por Antoine Lavoisier en 1785.
 
-Desde esta ventana emergente puedes hacer inicio de sesión en Chrome, haciendo clic en **Activar la sincronización**.
-{: .img-tutorial-leyenda}
-
-Al activar la sincronización te pedirá que inicies sesión con una cuenta de Google.
-
-![](/assets/images/chrome-crear-perfil-03.jpg){: .img-tutorial-h}
-
-Usa tu correo CoBach BC para iniciar sesión.
-{: .img-tutorial-leyenda}
-
-Confirma tu usuario ingresando la contraseña de tu correo CoBach BC.
-
-![](/assets/images/chrome-crear-perfil-04.jpg){: .img-tutorial-h}
-
-Al ser cuentas administradas por CoBach BC, verás esta pantalla informativa, haz clic en **Vincular datos** para continuar.
-
-![](/assets/images/chrome-crear-perfil-05.jpg){: .img-tutorial-h}
-
-Chrome te invita a que inices sesión con una cuenta de Google.
-{: .img-tutorial-leyenda}
-
-Al vincular tus datos es recomendable que actives también la sincronización, de esta manera todo tu trabajo se guardará automáticamente en tu cuenta y estará disponible en cualquier otro dispositivo donde inicies sesión con tu cuenta de CoBach BC.
-
-![](/assets/images/chrome-crear-perfil-06.jpg){: .img-tutorial-h}
-
-Acepta la sincronización de datos.
-{: .img-tutorial-leyenda}
-
-A partir de ese momento, tu navegador Chrome tiene vinculada tu cuenta, lo podrás notar porque el botón junto a la barra de herramientas mostrará tu foto de perfil.
-
-![](/assets/images/chrome-crear-perfil-07.jpg){: .img-tutorial-h}
-
-El perfil con tu cuenta CoBach BC ha sido guardado en Chrome.
-{: .img-tutorial-leyenda}
-
-Si haces clic en el botón de tu avatar junto a la barra de direcciones podrás ver los detalles de la cuenta que está activa en Chrome.
-
-![](/assets/images/chrome-crear-perfil-08.jpg){: .img-tutorial-h}
-
-Si navegas a alguna aplicación de Google, notarás que no necesitas iniciar sesión, porque toma el usuario del perfil y te permite acceder rápidamente a tu correo, por ejemplo.
-
-![](/assets/images/chrome-crear-perfil-09.jpg){: .img-tutorial-h}
-
-Puedes acceder directamente a las aplicaciones de Google sin tener que iniciar sesión, porque toma la información de la cuenta del perfil.
-{: .img-tutorial-leyenda}
-
-Si quieres manejar más de una cuenta Google, puedes agregar más perfiles, haciendo clic en **+ Agregar** al final de la ventana emergente
-
-![](/assets/images/chrome-crear-perfil-10.jpg){: .img-tutorial-h}
-
-Puedes agregar todas las cuentas que necesites.
-
-![](/assets/images/chrome-crear-perfil-11.jpg){: .img-tutorial-h}
-
-Verás en la ventana emergente los perfiles que has creado.
-{: .img-tutorial-leyenda}
-
-Cuando seleccionas un perfil abre una ventana propia de Chrome para ese perfil, por lo que tienes un navegador dedicado para cada perfil.
-
-![](/assets/images/chrome-crear-perfil-12.jpg){: .img-tutorial-h}
-
-Cada perfil se abrirá en su propio navegador, por lo que puedes aprovechar al máximo las características de cada aplicación de Google.
-{: .img-tutorial-leyenda}
-
-## Gmail
-
-### Búsqueda avanzada
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fvObjMXwIG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-### Filtros
-
-#### Cuentas que únicamente envían información
-
-Las cuentas de servicio o de envío usadas por sistemas o equipos se sugiere sean configuradas con el siguiente filtro:
-
-Abre la búsqueda avanzada para iniciar el proceso de creación del filtro.
-
-![](/assets/images/workspace-gmail-001-01.png){: .img-tutorial-h}
-
-Haz clic en el icono derecho de la barra de búsqueda
-{: .img-tutorial-leyenda}
-
-Selecciona buscar en **Enviados** y haz clic en **Crear filtro**.
-
-![](/assets/images/workspace-gmail-001-02.png){: .img-tutorial-h}
-
-Haz clic en **Aceptar** en la ventana del aviso.
-
-![](/assets/images/workspace-gmail-001-03.png){: .img-tutorial-h}
-
-Para finalizar el filtro, habilita **Eliminar**. Si la cuenta tiene mensajes ya enviados, puedes habilitar también la útima opción para eliminar los enviados ya existentes.
-
-![](/assets/images/workspace-gmail-001-04.png){: .img-tutorial-h}
-
-De esta manera, la cuenta eliminará automáticamente los correos que conserva en *Enviados*, evitando la acumulación histórica de correos.
-
-## Meet
-
-### Compartir video de YouTube
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4r_SLPJDCr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+![Ley de la conservación de la materia](/images/quimica-1-bloque-6-01.png "Ley de la conservación de la materia")
