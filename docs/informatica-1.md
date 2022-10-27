@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Google Workspace
+title: Informática I
 nav_order: 2
 ---
 
-# Google Chrome
+# Informática I
 {: .no_toc }
 
 ## Temas
