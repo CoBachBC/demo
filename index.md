@@ -41,3 +41,5 @@ Baja una copia de este sitio para poder consultar toda la información sin usar 
 {% endfor %}
 
 {{ include.pages }}
+
+{{ site.title }}
