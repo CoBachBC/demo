@@ -36,7 +36,7 @@ Baja una copia de este sitio para poder consultar toda la información sin usar 
 
 # Asignaturas
 
-{% for doc in docs %}
+{% for doc in site.docs %}
     {{doc.title}}
 {% endfor %}
 
