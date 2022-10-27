@@ -53,3 +53,7 @@ Baja una copia de este sitio para poder consultar toda la información sin usar 
 ## Informática I
 
 [Ver temas](/docs/informatica-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+{% for doc in site.docs %}
+## {{page.title}}
+{% endfor %}
