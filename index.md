@@ -39,3 +39,5 @@ Baja una copia de este sitio para poder consultar toda la información sin usar 
 {% for doc in docs %}
     {{doc.title}}
 {% endfor %}
+
+{{ include.pages }}
