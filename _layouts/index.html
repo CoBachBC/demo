@@ -58,7 +58,7 @@ layout: table_wrappers
             {% if collections_size > 1 %}
               <div class="nav-category">{{ collection_value.name }}</div>
             {% endif %}
-            {% include nav.html pages=collection %}
+            {% comment %}{% include nav.html pages=collection %}{$ endcomment %}
           {% endif %}
         {% endfor %}
       {% else %}
@@ -136,7 +136,7 @@ layout: table_wrappers
         {% else %}
           {{ content }}
         {% endif %}
-
+        {% include nav.html pages=collection %}
 
         {% if page.has_children == true and page.has_toc != false %}
           <hr>
