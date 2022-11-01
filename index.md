@@ -20,3 +20,8 @@ Baja una copia de este sitio para poder consultar toda la información sin usar 
 1. Ahora puedes consultar toda la información que ves aquí fuera de línea
 
 ---
+
+<video controls width="100%">
+    <source src="/assets/videos/correo-interfaz.mp4" type="video/mp4">
+    Descarga el <a href="/assets/videos/correo-interfaz.mp4">video</a>.
+</video>
