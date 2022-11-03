@@ -27,3 +27,11 @@ Baja una copia de este sitio para poder consultar toda la información sin usar 
     <source src="/assets/videos/correo-interfaz.webm" type="video/webm">
     Descarga el <a href="/assets/videos/correo-interfaz.webm">video</a>.
 </video>
+
+## Ejemplo de audio
+
+<figure>
+    <figcaption>Escucha una demostración de audio</figcaption>
+    <audio controls src="/assets/audio/demo.mp3">
+    <a href="/assets/audio/demo.mp3">Descarga el audio</a>
+</figure>
